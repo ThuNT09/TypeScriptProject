@@ -1,0 +1,24 @@
+{
+  "name": "typescriptproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThuNT09/TypeScriptProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ThuNT09/TypeScriptProject/issues"
+  },
+  "homepage": "https://github.com/ThuNT09/TypeScriptProject#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
